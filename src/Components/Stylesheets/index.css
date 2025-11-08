@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme{
+    --breakpoint-xs: 480px;
+}
+
+.checked{
+    text-decoration: line-through solid #3c3838 1.5px;
+    color: #666363;
+}
